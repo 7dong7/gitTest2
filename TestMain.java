@@ -4,5 +4,6 @@ public class TestMain {
 
         String str = "첫번째";
 
+        String str2 = "두번째";
     }
 }
