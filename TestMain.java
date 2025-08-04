@@ -12,5 +12,7 @@ public class TestMain {
 
         String str6 = "여섯번째";
 
+        String str7 = "일곱번째";
+
     }
 }
