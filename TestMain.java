@@ -4,5 +4,7 @@ public class TestMain {
 
         String str = "첫번째";
 
+        String str3 = "세번째";
+
     }
 }
