@@ -8,5 +8,7 @@ public class TestMain {
 
         String str4 = "네번째";
 
+        String str5 = "다섯번째";
+
     }
 }
