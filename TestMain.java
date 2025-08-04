@@ -6,5 +6,7 @@ public class TestMain {
 
         String str3 = "세번째";
 
+        String str4 = "네번째";
+
     }
 }
